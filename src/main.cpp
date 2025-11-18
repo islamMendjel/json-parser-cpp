@@ -1,4 +1,3 @@
-#include "main.h"
 #include "JsonParser.h"
 #include "JsonPrinter.h"
 #include <iostream>
