@@ -1,0 +1,17 @@
+{
+  "name": "JSON Parser Project",
+  "version": 1.0,
+  "features": [
+    "Lexer/Tokenizer",
+    "Parser",
+    "Pretty Printer",
+    "Query Support"
+  ],
+  "settings": {
+    "indentSize": 2,
+    "prettyPrint": true,
+    "validation": true
+  },
+  "contributors": ["islamMendjel"],
+  "active": true
+}
