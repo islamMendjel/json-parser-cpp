@@ -109,17 +109,9 @@ Run: `ctest --output-on-failure`
 - [ ] Coverage + badge
 - [ ] Fuzz testing
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Code of Conduct
-
-See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
-
 ## License
 
 MIT
 
 ---
-Built with ❤️ for learning C++ parsing internals.
+Built for learning and testing C++.
